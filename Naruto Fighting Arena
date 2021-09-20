@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/LukeImNotYaFather/Scripts/main/Naruto%20Fighting%20Arena
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LukeImNotYaFather/Scripts/main/Naruto%20Fighting%20Arena"))()
